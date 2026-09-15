@@ -1,4 +1,4 @@
-package br.senac.tads.dsw.exemplo2.model;
+package br.senac.tads.dsw.exemplo.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

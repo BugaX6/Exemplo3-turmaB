@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Exemplo3SpringBootTurmaBApplication<exemplo-spring-boot-turmaB>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.senac.tads.dsw.exemplo.Exemplo3SpringBootTurmaBApplication",
+            "projectName": "exemplo-spring-boot-turmaB",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
